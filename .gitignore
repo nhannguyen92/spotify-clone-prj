@@ -1,0 +1,32 @@
+
+# Django files
+db.sqlite3
+*.log
+/static/
+*.pot
+*.mo
+
+# Environment variables
+.env
+
+# Editor and OS-specific files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Build and dependency files
+*.lock
+*.whl
+pip-log.txt
+
+# Virtual environment
+spotify_envi/
+backend/metadata
+
+# Pycache and pyc files
+__pycache__/
+*.pyc
+
+# Media
+backend/media/
